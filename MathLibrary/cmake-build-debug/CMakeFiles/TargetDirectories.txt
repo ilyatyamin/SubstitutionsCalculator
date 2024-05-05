@@ -1,0 +1,3 @@
+/Users/mrshrimp.it/Documents/MathLibrary/cmake-build-debug/CMakeFiles/MathLibrary.dir
+/Users/mrshrimp.it/Documents/MathLibrary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mrshrimp.it/Documents/MathLibrary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
